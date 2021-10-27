@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi, I'm Gianmarco!	:tada:
+# Hi, I'm Gianmarco!	:tada:
   
 [<img src="https://i.ytimg.com/an_webp/f02mOEt11OQ/mqdefault_6s.webp?du=3000&sqp=CPDQ4YsG&rs=AOn4CLAzqZ6BSnEtgK_w-lb0j4z8GN6s1g" max-width="100%">](https://youtu.be/f02mOEt11OQ)
 
