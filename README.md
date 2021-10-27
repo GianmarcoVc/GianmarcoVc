@@ -1,15 +1,36 @@
-### Hi there 👋
+## Hi, I'm Gianmarco!	:tada:
 
+[<img src="https://i.ytimg.com/an_webp/f02mOEt11OQ/mqdefault_6s.webp?du=3000&sqp=CPDQ4YsG&rs=AOn4CLAzqZ6BSnEtgK_w-lb0j4z8GN6s1g" max-width="100%">](https://youtu.be/f02mOEt11OQ)
 
-**GianmarcoVc/GianmarcoVc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :raising_hand: About Me 
 
-Here are some ideas to get you started:
+- I am a student of Web Development
+- I am preparing to enter [**SoyHenry**](https://www.soyhenry.com/) 
+- I love helping, if you have any questions or queries and if I can support you, I will gladly do so.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## :unlock: Languages and technologies I use
+
+- Web technologies
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+- Other technologies
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23323350.svg?style=for-the-badge&logo=figma&logoColor=white)
+  
+## :unlock: Languages and technologies I use
+
+  <a href="mailto:krystof.kratky2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krystofkratky/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/2606/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
