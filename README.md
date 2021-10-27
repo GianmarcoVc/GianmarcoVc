@@ -4,9 +4,10 @@
 
 ## :raising_hand: About Me 
 
-- I am a student of Web Development
-- I am preparing to enter [**SoyHenry**](https://www.soyhenry.com/) 
-- I love helping, if you have any questions or queries and if I can support you, I will gladly do so.
+- I am a student of Web Development.
+- I am preparing to enter [**SoyHenry.**](https://www.soyhenry.com/) 
+- I like to learn new things and improve myself every day.
+- I love helping, if you have any questions or queries and if I can support you, I will gladly do so. 💝
 
 ## :unlock: Languages and technologies I use
 
@@ -24,10 +25,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23323350.svg?style=for-the-badge&logo=figma&logoColor=white)
   
 ## :speech_balloon: Contact Me
-
+  
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gianmarcovalentinc@gmail.com)
   [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/9121)
-  
-  <h3 align="center">" You only fail when you stop trying. :rainbow: "</h3>
-
-  <!--   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/) -->
