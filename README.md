@@ -2,7 +2,8 @@
   
 # Hi, I'm Gianmarco!	:tada:
   
-<img src="https://c.tenor.com/i22Batz8ryoAAAAd/lofi.gif" max-width="100%">
+<!-- <img src="https://c.tenor.com/i22Batz8ryoAAAAd/lofi.gif" max-width="100%"> -->
+<img src="https://c.tenor.com/ZtOwgotPnLAAAAAd/lo-fi-is-strange-true-colors-lo-fi-is-strange.gif" max-width="100%">
 
 </div>
 
