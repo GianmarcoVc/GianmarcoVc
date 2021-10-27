@@ -28,8 +28,9 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23323350.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- ## :speech_balloon: Contact Me 
   
-## :speech_balloon: Contact Me
-  
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gianmarcovalentinc@gmail.com)
+  [<img tyle="margin-right: 5px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gianmarcovalentinc@gmail.com)
   [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/9121)
+ -->
