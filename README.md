@@ -1,10 +1,9 @@
 
-<img href="https://github.com/GianmarcoVc/GianmarcoVc/blob/master/banner.png" alt="Hello World"/>
+<img src="https://github.com/GianmarcoVc/GianmarcoVc/blob/master/banner.png" alt="Hello World"/>
 
-I am passionate about creating code, learning new technologies and every day learning a little more about this wonderful world of programming.
 
 ```javascript
-const gianmarco = {
+const aboutMe = {
     pronouns: 'he' || 'him',
     askMeAbout: ['app dev', 'web dev', 'tech'],
     technologies:{
