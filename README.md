@@ -1,37 +1,85 @@
-<div align="center">  
-  
-# console.log('Hello World')	:tada:  
-  
-<img alt="GIF" src="https://c.tenor.com/ZtOwgotPnLAAAAAd/lo-fi-is-strange-true-colors-lo-fi-is-strange.gif" max-width="100%" />
 
-</div>  
+<img href="https://github.com/GianmarcoVc/GianmarcoVc/blob/master/banner.png" alt="Hello World"/>
 
-</br>
+I am passionate about creating code, learning new technologies and every day learning a little more about this wonderful world of programming.
 
-Soy Gianmarco Valentin, un apasionado estudiante de desarrollo web. Cada dia mejorando mas en cada una de mis habilidades de desarrollo, sacandole provecho a esta gran oportunidad para un dia ser el desarrollador que siempre quise ser.
-  
-## 🤵 Datos curiosos
+```javascript
+const gianmarco = {
+    pronouns: 'he' || 'him',
+    askMeAbout: ['app dev', 'web dev', 'tech'],
+    technologies:{
+        fronEnd: ['Html', 'Css', 'Sass', 'React', 'Redux'],
+        backEnd: ["Node Js", "Express", "Socket io"],
+        database: ['Mongo DB', 'Postgres'],
+        mobileApp: ['React Native'],
+        others: ["Figma"]
+    },
+    architecture: ['Single page applications'],
+}
+```
+<!-- <p align="right">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" alt="HTML">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="50">
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" alt="CSS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" height="50">
+  </a>
+  <a href="https://sass-lang.com/" alt="SASS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="40">
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" alt="Javascript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="40">
+  </a>
+  <a href="https://es.reactjs.org/" alt="React">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="40">
+  </a>
+  <a href="https://es.redux.js.org/" alt="Redux">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40">
+  </a>
+  <a href="https://nodejs.org/" alt="Node Js">
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png" height="40">
+  </a>
+  <a href="https://expressjs.com/" alt="Express">
+    <img src="https://images.tute.io/tute/topic/express-js.png" height="40">
+  </a>
+    <a href="https://www.mongodb.com/" alt="Mongo DB">
+    <img src="https://img.icons8.com/color/452/mongodb.png" height="40">
+  </a>
+  <a href="https://www.postgresql.org/" alt="Postgres">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="40">
+  </a>
+  <a href="https://sequelize.org/" alt="Sequalize">
+    <img src="https://sequelize.org/v7/manual/asset/logo.png" height="40">
+  </a>
+  <a href="https://git-scm.com/" alt="Git">
+    <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" height="40">
+  </a>
+  <a href="https://www.figma.com/" alt="Figma">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40">
+  </a>
+</p>
+ -->
+ 
+- 🎧 Hobbies : Games & Music
+- 🌱 I’m currently learning **React Native**.
+- ⚡ Fun fact: Jack of all trades , Master of None !
+- 👯 If you have any projects you would like to colaborate, reach out to me.
+- 💬 I love to help, if you have any questions or queries and if I can support you, I will gladly do so.
+- 💻 See more about my work: <a href="#">Visit my website</a>
+   
+<p align="center">
+  <a href="https://www.linkedin.com/in/gianmarco-valentin/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gianmarco Valentin LinkedIn Profile" title="Linkedin" height="30">
+  </a>
+  <a href="mailto:gianmarcovalentinc@gmail.com">
+    <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" alt="Gmail" title="Email" height="30" width="80">
+  </a>
+</p>
 
-- Soy estudiante de Desarrollo Web Full Stack en [**SoyHenry.**](https://www.soyhenry.com/) 💛
-- Me gusta aprender cosas nuevas y superarme cada día.
-- Me encanta ayudar, si tienes alguna duda o consulta y si puedo apoyarte, con gusto lo haré.
-- ¿Algún trabajo remoto? contáctame vía [email](mailto:gianmarcovalentinc@gmail.com) :)
+<hr \>
 
-## 🔓 Lenguajes y tecnologías que utilizo
-
-### Tecnologías web
-
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  
-### Otras tecnologias
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23323350.svg?style=for-the-badge&logo=figma&logoColor=white)
-  
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+</p>         
