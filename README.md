@@ -1,70 +1,77 @@
+# Hola, soy Gianmarco! 👋
 
-<img src="https://github.com/GianmarcoVc/GianmarcoVc/blob/master/banner.png" alt="Hello World"/>
+## About Me 👨‍💻 
 
+Joven apasionado por la tecnología y el desarrollo de software / aplicaciones.
+
+Amplio conocimiento en desarrollo de aplicaciones web desde Backend, Frontend, Base de Datos y sus tecnologías, enfocado en el desarrollo web para proyectos personales y comenzando en el mundo profesional.
 
 ```javascript
 const aboutMe = {
     pronouns: 'he' || 'him',
     askMeAbout: ['app dev', 'web dev', 'tech'],
     technologies:{
-        fronEnd: ['Html', 'Css', 'Sass', 'React', 'Redux'],
+        fronEnd: ['Sass', 'Tailwind Css', 'React', 'Redux'],
         backEnd: ["Node Js", "Express", "Socket io"],
         database: ['Mongo DB', 'Postgres'],
-        mobileApp: ['React Native'],
         others: ["Figma"]
     },
     architecture: ['Single page applications'],
 }
 ```
-<!-- <p align="right">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" alt="HTML">
+
+<p float='right'>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" title="HTML">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="50">
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" alt="CSS">
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" title="CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" height="50">
   </a>
-  <a href="https://sass-lang.com/" alt="SASS">
+  <a href="https://sass-lang.com/" title="Sass">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="40">
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" alt="Javascript">
+  <a href="https://tailwindcss.com/" title="Tailwind Css">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--762O-5e0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qy0ctxjhdgvvj6e4ra10.png" height="50">
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" title="Javascript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="40">
   </a>
-  <a href="https://es.reactjs.org/" alt="React">
+  <a href="https://es.reactjs.org/" title="React">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="40">
   </a>
-  <a href="https://es.redux.js.org/" alt="Redux">
+  <a href="https://es.redux.js.org/" title="Redux">
     <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40">
   </a>
-  <a href="https://nodejs.org/" alt="Node Js">
+  <a href="https://nodejs.org/" title="Node Js">
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png" height="40">
   </a>
-  <a href="https://expressjs.com/" alt="Express">
+  <a href="https://expressjs.com/" title="Express">
     <img src="https://images.tute.io/tute/topic/express-js.png" height="40">
   </a>
-    <a href="https://www.mongodb.com/" alt="Mongo DB">
+  <a href="https://socket.io/" title="Socket Io">
+    <img src="https://cdn.onlinewebfonts.com/svg/img_238853.png" height="40">
+  </a>
+  <a href="https://www.mongodb.com/" title="Mongo DB">
     <img src="https://img.icons8.com/color/452/mongodb.png" height="40">
   </a>
-  <a href="https://www.postgresql.org/" alt="Postgres">
+  <a href="https://www.postgresql.org/" title="Postgres">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="40">
   </a>
-  <a href="https://sequelize.org/" alt="Sequalize">
+  <a href="https://sequelize.org/" title="Sequalize">
     <img src="https://sequelize.org/v7/manual/asset/logo.png" height="40">
   </a>
-  <a href="https://git-scm.com/" alt="Git">
+  <a href="https://git-scm.com/" title="Git">
     <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" height="40">
   </a>
-  <a href="https://www.figma.com/" alt="Figma">
+  <a href="https://www.figma.com/" title="Figma">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40">
   </a>
 </p>
- -->
- 
-- 🎧 Hobbies : Games & Music
-- 🌱 I’m currently learning **React Native**.
-- ⚡ Fun fact: Jack of all trades , Master of None !
-- 👯 If you have any projects you would like to colaborate, reach out to me.
-- 💬 I love to help, if you have any questions or queries and if I can support you, I will gladly do so.
-- 💻 See more about my work: <a href="#">Visit my website</a>
+
+🌱 Actualmente estoy aprendiendo Typescript y React Native.
+
+💬 Me encanta ayudar, si tienes alguna duda o consulta y si puedo apoyarte, con mucho gusto lo haré.
+   
    
 <p align="center">
   <a href="https://www.linkedin.com/in/gianmarco-valentin/">
