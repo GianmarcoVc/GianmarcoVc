@@ -37,20 +37,11 @@ Joven apasionado por la tecnología y el desarrollo de aplicaciones web. Amplio 
 
 ### 🖌️ Último Proyecto
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e8/0d/c9/e80dc9b8-5d50-2562-dfd4-4084e4c74397/TodoAppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/400x400.png"/>](https://gianmarcovc.github.io/ToDo-List/) 
-**ToDo List App ✔️** \
-Aplicación simple de gestión de listas TODO. \
-Crea tu lista de pendientes y ten al orden tus tareas. \
-[Visitar Página](https://gianmarcovc.github.io/ToDo-List/) 
-
-<!-- ---
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="imagen del pi"/>](url pi)
+[<img align="left" height="94px" width="94px" alt="Level Up" src="https://farmboyinc.com/wp-content/uploads/2019/04/FB-LevelUp-Graphic-2019_0327.gif"/>](https://videogames-app-nu.vercel.app/)
 **Level Up - Un mundo de Videojuegos 🎮** \
 Proyecto Individual para el Bootcamp de SoyHenry sobre Videojuegos.  
 Busca y publica la información básica de tu juego Favorito.  
-[Visitar Página](url pi) 
- -->
+[Visitar Página](https://videogames-app-nu.vercel.app/) 
 
 ### 💬 Contacto
 
